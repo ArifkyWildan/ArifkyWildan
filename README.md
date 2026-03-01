@@ -1,7 +1,6 @@
 
 
 
-##Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/726821755259191488) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arfkywldn/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadarifkywildan@gmail.com) 
 
 # 💻 Tech Stack:
@@ -21,4 +20,5 @@
 [![](https://visitcount.itsvg.in/api?id=ArifkyWildan&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
